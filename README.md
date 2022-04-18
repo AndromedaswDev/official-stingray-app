@@ -10,7 +10,7 @@
 
 # How To Set Up Stingray
 
-* git clone https://github.com/Andromedaswdev/Stingray.git
+* git clone https://github.com/Andromedaswdev/official-stingray-app.git
 
 * cd Stingray
 
