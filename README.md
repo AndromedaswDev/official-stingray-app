@@ -6,13 +6,13 @@
 
 * Has support for <a href="https://play.geforcenow.com/" /> GeForce Now </a>
 
-* Has Custom Particles Made By <p> BlazerHM#7782 </p>
+* Has Custom Particles Made By <p>BlazerHM#7782</p>
 
 # How To Set Up Stingray
 
 * git clone https://github.com/Andromedaswdev/official-stingray-app.git
 
-* cd Stingray
+* cd official-stingray-app
 
 * npm start
 
