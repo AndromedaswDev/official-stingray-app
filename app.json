@@ -1,7 +1,7 @@
 {
     "name": "StingRay",
     "description": "Node.js Stingray Web App",
-    "repository": "https://github.com/titaniumnetwork-dev/ultraviolet-web-app",
+    "repository": "https://github.com/AndromedaswDev/official-stingray-app",
     "logo": "https://ultraviolet-node-1.beforeblazer.repl.co/stingray.jpeg",
     "keywords": ["proxy", "proxy"]
 }
